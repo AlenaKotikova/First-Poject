@@ -1,0 +1,32 @@
+.typer {
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(173, 153, 38);
+    border-radius: 15px;
+    padding-left: 20px;
+    width: 860px;
+}
+
+.table-work {
+    display: inline-block;
+    border-collapse: collapse;
+    
+}
+
+.table {
+    border-collapse: collapse;
+    border: 2px solid grey;    
+}
+
+td, th {
+    border: 2px solid grey;
+    padding: 10px 20px;
+}
+
+td {
+    text-align: center;
+}
+
+caption {
+    padding: 10px;
+}

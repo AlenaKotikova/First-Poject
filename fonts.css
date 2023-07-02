@@ -1,0 +1,37 @@
+.typer{
+    font-size: 25px;
+    font-weight: 500;
+    color: #4e3d0e;
+    }
+
+.card {
+    background-color: white;
+    font-size: 25px;
+    }
+body{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1 { 
+    font-size: 70px;
+    font-weight: 700;
+    color: #fdfdfe;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 
+        2px 2px 2px #b393d3,
+        2px 2px 4px #582dd1,
+        2px 2px 6px #2c0355,
+        2px 2px 7px #150229,
+        2px 2px 9px #822cd8,
+        2px 2px 12px #b393d3;
+    }
+table{
+    padding-left: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+td, th {
+    padding: 20px
+    }
